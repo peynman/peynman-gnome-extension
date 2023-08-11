@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.peynman" path="/org/gnome/shell/extensions/peynman/">
+    <key name="show-restart-to-windows" type="b">
+      <default>true</default>
+    </key>
+    <key name="show-manual-proxy" type="b">
+      <default>true</default>
+    </key>
+  </schema>
+</schemalist>

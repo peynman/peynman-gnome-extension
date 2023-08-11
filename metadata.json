@@ -1,0 +1,9 @@
+{
+  "name": "PeynmanGnomeCustomizations",
+  "description": "My customizations on Gnome",
+  "uuid": "peynman@roghumi.com",
+  "shell-version": [
+    "43",
+    "44"
+  ]
+}
