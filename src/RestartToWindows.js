@@ -93,7 +93,7 @@ var RestartToWindowsMenuItem = GObject.registerClass(
         }
 
         _executeRestart() {
-            this.spawnCommandLine(`grub-reboot 2`);
+            this.spawnCommandLine(`sudo grub-reboot 2`);
             this._systemActions.activateRestart();
             Main.panel.closeQuickSettings();
         }
